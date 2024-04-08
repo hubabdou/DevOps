@@ -1,0 +1,10 @@
+.ng-material-spacer {
+    flex: 1 1 auto;
+}
+a {
+    text-decoration: none;
+}
+
+.inline-flex-displayed{
+    display: inline-flex;
+}
